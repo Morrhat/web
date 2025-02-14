@@ -78,7 +78,7 @@
       <tr>
         <td>4</td>
         <td>Таблица - Чек-лист с результатами тестирования модулей Регистрации волонтёра и Регистрации НКО</td>
-        <td><a href= "https://docs.google.com/spreadsheets/d/1a6wre7UyspTDRc1vnrcoITgjUqhqSA9xehMmOJBGX2o/edit?usp=sharing"><img title="publiclink" src="https://img.icons8.com/?size=100&id=80410&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+        <td><a href= "https://docs.google.com/spreadsheets/d/1WfJXx4zJe0OKwO0TjhdvmE7L5jKWs7QYE6cOl85kio0/edit?usp=sharing"><img title="publiclink" src="https://img.icons8.com/?size=100&id=80410&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
       </tr>
 </table>
 
